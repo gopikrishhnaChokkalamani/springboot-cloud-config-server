@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-student-client
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Gopikrishhna
+Implementation-Vendor-Id: com.gi.springboot
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-s
+ tudent-client/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
